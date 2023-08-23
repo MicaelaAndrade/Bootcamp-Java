@@ -7,7 +7,7 @@ Bem-vindo ao BootCamp Santander 2023 realizado na plataforma DIO! Neste reposit�
 
 Aqui estão os desafios abordados durante o bootcamp:
 
-- [Desafio 1 - Conta Banco](Desafio1_ContaBanco/README.md)
+- [Desafio 1 - Conta Banco](src/Desafio1_ContaBanco)
 
 
 ## Licença
