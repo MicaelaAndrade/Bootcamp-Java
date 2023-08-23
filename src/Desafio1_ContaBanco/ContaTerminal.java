@@ -1,4 +1,4 @@
-package ContaBanco;
+package Desafio1_ContaBanco;
 
 import java.util.Locale;
 import java.util.Scanner;
